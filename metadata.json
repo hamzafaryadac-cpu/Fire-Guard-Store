@@ -1,0 +1,6 @@
+{
+  "name": "Fire Guard",
+  "description": "Fire Guard — Professional Fire Safety Service. Certified fire safety equipment online store and professional fire alarm, control panel, hydrant, and hose reel installation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
